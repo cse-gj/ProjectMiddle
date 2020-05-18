@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "134876036936",
+    "firebase_url": "https://projectmiddle-ad830.firebaseio.com",
+    "project_id": "projectmiddle-ad830",
+    "storage_bucket": "projectmiddle-ad830.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134876036936:android:7242266488cafb5d7a3d7d",
+        "android_client_info": {
+          "package_name": "com.sample.projectmiddle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134876036936-umusb01hh6m3uih1j74p2vpi9jpvthdv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0EYW5f3yhU6ze-U6qlomq5cs6yh02ARY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134876036936-umusb01hh6m3uih1j74p2vpi9jpvthdv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
